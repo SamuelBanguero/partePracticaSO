@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1760911756 source:c:\users\samuel banguero\desktop\4 semestre\so\partepracticaso\partepracticaso\src\mlqscheduler.cpp
+	"MLQScheduler.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<iomanip>
+
+1760911580 c:\users\samuel banguero\desktop\4 semestre\so\partepracticaso\partepracticaso\include\mlqscheduler.h
+	"Process.h"
+	<deque>
+	<vector>
+	<string>
+
+1760911580 c:\users\samuel banguero\desktop\4 semestre\so\partepracticaso\partepracticaso\include\process.h
+	<string>
+
+1760911580 source:c:\users\samuel banguero\desktop\4 semestre\so\partepracticaso\partepracticaso\src\process.cpp
+	"Process.h"
+
+1760911580 source:c:\users\samuel banguero\desktop\4 semestre\so\partepracticaso\partepracticaso\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"MLQScheduler.h"
+
